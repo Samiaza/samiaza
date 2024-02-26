@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Samiaza/samiaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Обо мне
 
-Here are some ideas to get you started:
+## Описание
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Привет! Меня зовут Алексей [Samiaza][gemmaeme], и я занимаюсь разработкой программного обеспечения. Я развиваюсь в направлении создания мобильных приложений для Android и iOS. Не чураюсь программирования на Java, C#, C++, Python.
+## Мои навыки
+
+- **Языки программирования**: Kotlin, Swift, Java
+- **Разработка Android**: Android Studio, Kotlin, Java, XML
+- **Разработка iOS**: Swift, Xcode
+- **Базы данных**: PostgreSQL, SQLite
+- **Инструменты**: Git, Docker
+
+## ~~Моя прелесть~~ Проекты
+
+### [Smart Calculator](https://github.com/Samiaza/Calculator)
+
+Расширенная версия стандартного калькулятора с возможностью построения графиков.
+
+### [Particle interaction model](https://github.com/Samiaza/ParticleModel)
+
+Приложение с графическим интерфейсом, реализующее модель взаимодействия частиц.
+
+## Контакты
+
+- **Email**: alexey.logo@gmail.com
+- **GitHub**: [Samiaza](https://github.com/Samiaza)
+
+## Лицензия
+
+Этот проект распространяется под лицензией [MIT](LICENSE).
