@@ -17,7 +17,7 @@
 
 ### [Recipes Book](https://github.com/Samiaza/Recipes-Book)
 
-Приложение SwiftUI для управления рецептами.
+Приложение на SwiftUI для управления рецептами.
 
 ### [Smart Calculator](https://github.com/Samiaza/Calculator)
 
