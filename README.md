@@ -15,6 +15,10 @@
 
 ## ~~Моя прелесть~~ Проекты
 
+### [Recipes Book](https://github.com/Samiaza/Recipes-Book)
+
+Приложение SwiftUI для управления рецептами.
+
 ### [Smart Calculator](https://github.com/Samiaza/Calculator)
 
 Расширенная версия стандартного калькулятора с возможностью построения графиков.
