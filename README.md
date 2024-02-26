@@ -27,7 +27,3 @@
 
 - **Email**: alexey.logo@gmail.com
 - **GitHub**: [Samiaza](https://github.com/Samiaza)
-
-## Лицензия
-
-Этот проект распространяется под лицензией [MIT](LICENSE).
