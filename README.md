@@ -10,7 +10,7 @@
 - **Языки программирования**: Kotlin, Swift, Java
 - **Разработка Android**: Android Studio, Kotlin, Java, XML
 - **Разработка iOS**: Swift, Xcode
-- **Базы данных**: PostgreSQL, SQLite
+- **Базы данных**: PostgreSQL, Embedded
 - **Инструменты**: Git, Docker
 
 ## ~~Моя прелесть~~ Проекты
