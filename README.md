@@ -16,14 +16,22 @@
 ## ~~Моя прелесть~~ Проекты
 
 ### [Recipes Book](https://github.com/Samiaza/Recipes-Book)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-orange)
 
-Приложение на SwiftUI для управления рецептами.
+Приложение для управления рецептами.
+
+### [Job Center](https://github.com/Samiaza/Job-Center)
+![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet)
+
+Client-Server приложение для поиска вакансий.
 
 ### [Smart Calculator](https://github.com/Samiaza/Calculator)
+![C++](https://img.shields.io/badge/C%2B%2B-blue)
 
 Расширенная версия стандартного калькулятора с возможностью построения графиков.
 
 ### [Particle interaction model](https://github.com/Samiaza/ParticleModel)
+![Python](https://img.shields.io/badge/Python-blue)
 
 Приложение с графическим интерфейсом, реализующее модель взаимодействия частиц.
 
